@@ -6,11 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanDevPs&layout=compact&langs_count=7&theme=dark"/>   
 </div>
  
-
-- 🔭 Estou atualmente buscando oportunidades de Estágio em Desenvolvimento de Software Back end com Java. Mas aceitaria facil outras oportunidades com outras linguagens. Tudo pelo aprendizado e desenvolvimento. 🤘
-- 🌱 Atualmente estou aprendendo Spring Boot e em breve irei iniciar meus estudos em HTML, CSS e Javascript.
-- 📫 Contate-me por aqui:
-  
  <div>   
 <a href="https://www.instagram.com/yohanpivetta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:yohanps.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
