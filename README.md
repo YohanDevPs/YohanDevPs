@@ -1,8 +1,9 @@
 ## Hi! Welcome to my profile 👋
 
  ### Main skills:
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.2-green.svg)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![JUnit5](https://img.shields.io/badge/-Junit5-black?style=flat-square&logo=Junit5)
 
 ### Studying in this moment:
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring-security&logoColor=white)&nbsp;
@@ -15,9 +16,10 @@
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)&nbsp;
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
-### Estatisticas
+### Statistics
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YohanDevPs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YohanDevPs&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YohanDevPs&theme=nord_dark) |
 | :-: | :-: | :-: |
 
